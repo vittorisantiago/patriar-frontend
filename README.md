@@ -1,41 +1,37 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# PatriAR 💼📊
 
-## Getting Started
+Bienvenido al proyecto **Gestor de Carteras**, una aplicación web innovadora que te permite gestionar tus inversiones y carteras de forma fácil, intuitiva y eficiente. Con una interfaz moderna y herramientas avanzadas para monitorear el rendimiento de tus activos, este gestor te ayuda a tomar decisiones informadas y mejorar tus finanzas personales.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Características
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Dashboard Interactivo**: Visualiza el estado de tus carteras con gráficos en tiempo real. 📈
+- **Gestión de Activos**: Agrega, edita y elimina tus activos financieros con facilidad. 💸
+- **Monitoreo de Rendimiento**: Realiza un seguimiento del rendimiento de tus inversiones a través de gráficos dinámicos. 📊
+- **Notificaciones Personalizadas**: Recibe alertas cuando tus activos alcancen ciertos límites o condiciones. 📲
+- **Autenticación y Seguridad**: Protege tu información con un sistema de autenticación seguro. 🔐
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🛠️ Tecnologías
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Este proyecto utiliza las siguientes tecnologías:
 
-## Learn More
+### Frontend:
 
-To learn more about Next.js, take a look at the following resources:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width='50' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width='50'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width='50' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" width='50'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" width='50' />
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🎨 Diseño
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+[![patriAR.png](https://i.postimg.cc/8cXP3pGf/patriAR.png)](https://postimg.cc/MfRSf8vz)
 
-## Deploy on Vercel
+## 💻 Demo
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Puedes acceder a la demo del proyecto en el siguiente enlace: [Probar app](https://patriar.netlify.app/)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-=======
-# patriar-frontend
-PatriAR es una plataforma moderna para administrar, analizar y optimizar tus inversiones de manera eficiente. 🚀
->>>>>>> 97c6eadb6058f90ceac34cb9e2d973d11c2fc910
+## 📢 Contacto
+
+📧 Correo: vittori513@gmail.com
