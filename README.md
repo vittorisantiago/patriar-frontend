@@ -1,4 +1,4 @@
-# PatriAR 💼📊
+# PatriAR 💼
 
 Bienvenido al proyecto **Gestor de Carteras**, una aplicación web innovadora que te permite gestionar tus inversiones y carteras de forma fácil, intuitiva y eficiente. Con una interfaz moderna y herramientas avanzadas para monitorear el rendimiento de tus activos, este gestor te ayuda a tomar decisiones informadas y mejorar tus finanzas personales.
 
@@ -18,11 +18,13 @@ Este proyecto utiliza las siguientes tecnologías:
 
 ### Frontend:
 
+<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width='50' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width='50'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width='50' />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" width='50'/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" width='50' />
+</div>
 
 ## 🎨 Diseño
 
